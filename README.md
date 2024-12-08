@@ -35,7 +35,3 @@ This project applies machine learning techniques to detect fraudulent transactio
 The implemented deep learning model achieved:
 - ROC-AUC score: 0.96
 - Recall: 92%
-## Future Scope
-- Improve generalization by testing on other datasets.
-- Explore feature importance analysis.
-- Deployment strategies for real-world application.
